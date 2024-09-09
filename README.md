@@ -30,8 +30,8 @@ My name is Nilesh Domah and I am currently pursuing a Bioinformatics/Data Scient
 
 
 ## 🔗 Links:
-- LinkedIn:
-- Portfolio Website:
+- [LinkedIn](https://www.linkedin.com/in/ndomah001/)
+- [Portfolio Website](https://www.datascienceportfol.io/ndomah001)
 <!--
 **ndomah001/ndomah001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
